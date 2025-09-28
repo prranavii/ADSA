@@ -4,6 +4,8 @@ https://leetcode.com/submissions/detail/1703435563/
 
 
 ## code 
+
+```java 
     class Solution {
     public int[] twoSum(int[] nums, int target) {
         for(int i=0;i<nums.length;i++){
